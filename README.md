@@ -1,1 +1,1 @@
-this repository is from Ramiro to upload personal jobs
+this repository belong to Ramiro to upload personal jobs
